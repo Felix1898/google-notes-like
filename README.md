@@ -1,3 +1,4 @@
+INSTRUCTIONS
 
 npm install -g babel@5
 ```
