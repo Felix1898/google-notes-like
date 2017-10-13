@@ -1,7 +1,9 @@
 INSTRUCTIONS
 
+Pre-requisites: npm, node and express
+
+
 npm install -g babel@5
-```
 
 ## Installation 
 ```
