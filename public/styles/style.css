@@ -1,0 +1,16 @@
+* {
+	box-sizing: border-box;
+}
+
+
+#mount-point {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+body {
+	font-family: fantasy;
+	font-weight: 200;
+	background-color: #CBE32D;
+}
